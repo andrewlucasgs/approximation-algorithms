@@ -2945,6 +2945,9 @@ m: number of elements in experimental spectrum",n,,,Word/Real RAM,words,8,n: 8,$
 116,d-Neighborhood of a String,2,,d-Neighborhood of a String,911,,0,1,1,"$O(f_{bin}(\sigma-1, n, d))$ where $f_{bin}(x, y, z) = sum_{i=0}^z C(y, i)*x^i$",Any distribution,(output is of that size),[http://rosalind.info/problems/ba1n/ Iterative naive (1940)],Iterative naive,1940,http://rosalind.info/problems/ba1n/,,[],0,,1,1,,1,0,8,n: 8,"O(f_{bin}(sigma-1, n, d)) where f_{bin}(x, y, z) = sum_{i=0}^z C(y, i)*x^i",,"n: length of string
 d: neighborhood distance threshold
 sigma: size of alphabet",n,,,Word RAM,words,3,n: 3,O(n),"Keep track of which indices the differing letters are on, along with which set of letters are replacing the letters in these indices",1,0,,0,,0,,0,0,,0,0,http://rosalind.info/problems/ba1n/,,,,,,,,,,,1000000,1,,1000000000000,1,,1E+18,1,,4,,,Bioinformatics
+117,Maximum Cut,2,Maximum Cut,Maximum Cut,,,,1,1,O(E*2^V),,,[ Brute Force (1975)],Brute Force,1975,,,[],0,,1,1,,1,0,8,n: 8,O(m*2^n),1020,"n: number of vertices
+m: number of edges",n,,,Word RAM,words,#VALUE!,,,,,,,0,,0,,0,0,,0,0,,,,,"V:E
+3:4",,,,,,,Inf,1,,Inf,1,,Inf,1,,1,,,Combinatorics
 117,Maximum Cut,0.001,Maximum Cut,Maximum Cut,912,,,1,1,O(2^V),,,[ Hadlock (1975)],Hadlock,1975,,,[],0,,1,1,,1,0,8,n: 8,O(2^n),1000,"n: number of vertices
 m: number of edges",n,,,Word RAM,words,#VALUE!,,,,,,,0,,0,,0,0,,0,0,,,,,"V:E
 3:4",,,,,,,Inf,1,,Inf,1,,Inf,1,,1,,,Combinatorics

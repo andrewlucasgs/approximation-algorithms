@@ -192,7 +192,7 @@ n^2: 3",$O(n^2)$,"Derived: Same idea as Strassen's, plus three additional nxn ma
  from two matrices with entries in a field; or; more generally; in a ring
  or even a semiring. ",,,,,,,,,,218776162.4,0,,4.7863E+16,0,,1.04713E+25,0,,3,,,Combinatorics
 6,Matrix Product,1,1,Arbitrary Precision Approximating Matrix Multiplication,78,,,1,0,$O(n^{(3*\log 52/\log 110)}poly(\log(1/\epsilon))) ~ O(n^{2.5218}poly(\log(1/\epsilon)))$?,,,[https://epubs.siam.org/doi/abs/10.1137/0210032 Schonhage's algorithm (1980)],Schonhage's algorithm,Schonhage,Partial and Total Matrix Multiplication,1980,https://epubs.siam.org/doi/abs/10.1137/0210032,,,,1,0,4.2609,"n: 5.5218,
-n^2: 4.2609",3,$O(n^{(3*\log 52/\log 110)}poly(\log(1/\epsilon))) ~ O(n^{2.5218}poly(\log(1/\epsilon)))$?,15.26?,"n: dimension of square matrix
+n^2: 4.2609",3,$O(n^{(3*\log 52/\log 110)}poly(\log(1/\epsilon))) ~ O(n^{2.5218}poly(\log(1/\epsilon)))$?,15.26,"n: dimension of square matrix
 eps: approximation parameter/working precision",n^2,https://epubs.siam.org/doi/abs/10.1137/0210032,0,Word RAM,words,3,"n: 5,
 n^2: 3",$O(n^2)$,"Derived: Same idea as Strassen's, plus three additional nxn matrices",1,0,,0,,1,eps,1,0,1.99,additive,yes,n/a,Magnitude of error (from obtained solution to real solution),0,0,,0,0,,"matrix multiplication or matrix product is a binary operation that produces a matrix
  from two matrices with entries in a field; or; more generally; in a ring

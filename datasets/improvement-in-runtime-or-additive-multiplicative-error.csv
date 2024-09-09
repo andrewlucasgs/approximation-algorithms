@@ -1,0 +1,322 @@
+Family Name,Variation,,Family Name,Looked at?,Relevant?,Variation,Algorithm Name,Year,Time Complexity Class,Approximation Factor Class (Mult),Approximation Factor Class (Add),Approximation Type (additive/multiplicative),Parametrized Approximation?,Type of PTAS (if PTAS),Parallel?,Quantum?,Improvement
+All-Pairs Shortest Paths (APSP),"APSP, unweighted, undirected, no FMM (Approximate)",153,All-Pairs Shortest Paths (APSP),1,1,"APSP, unweighted, undirected, no FMM (Approximate)","Aingworth, Chekuri, Indyk, Motwani",1999,5.5,99999.0,2.0,additive,no,,0,0.0,1
+All-Pairs Shortest Paths (APSP),"APSP, unweighted, undirected, no FMM (Approximate)",154,All-Pairs Shortest Paths (APSP),1,1,"APSP, unweighted, undirected, no FMM (Approximate)","Dor, Halperin, Zwick [APASP_2]",2000,5.33,99999.0,2.0,additive,no,,0,0.0,1
+All-Pairs Shortest Paths (APSP),"APSP, unweighted, undirected, no FMM (Approximate)",155,All-Pairs Shortest Paths (APSP),1,1,"APSP, unweighted, undirected, no FMM (Approximate)","Dor, Halperin, Zwick [APASP_k]",2000,5.01,99999.0,3.0,additive,yes,,0,0.0,1
+All-Pairs Shortest Paths (APSP),"APSP, unweighted, undirected, no FMM (Approximate)",156,All-Pairs Shortest Paths (APSP),1,1,"APSP, unweighted, undirected, no FMM (Approximate)","Dor, Halperin, Zwick [APASP_infty]",2000,5.01,4.0,99999.0,multiplicative,no,,0,0.0,1
+All-Pairs Shortest Paths (APSP),"APSP, unweighted, undirected, no FMM (Approximate)",157,All-Pairs Shortest Paths (APSP),1,1,"APSP, unweighted, undirected, no FMM (Approximate)","Deng, Kirkpatrick, Rong, V. Williams, Zhong",2022,5.29,99999.0,2.0,additive,no,,0,0.0,0
+All-Pairs Shortest Paths (APSP),"APSP, unweighted, undirected, no FMM (Approximate)",158,All-Pairs Shortest Paths (APSP),1,1,"APSP, unweighted, undirected, no FMM (Approximate)",Roditty,2023,5.25,3.0,99999.0,multiplicative,no,,0,0.0,1
+All-Pairs Shortest Paths (APSP),"APSP, unweighted, undirected, with FMM (Approximate)",159,All-Pairs Shortest Paths (APSP),1,1,"APSP, unweighted, undirected, with FMM (Approximate)","Dory, Forster, Kirkpatrick, Nazari, V. Williams, de Vos [Theorem 1.3]",2023,5.04,3.0,99999.0,multiplicative,no,,0,0.0,1
+All-Pairs Shortest Paths (APSP),"APSP, unweighted, undirected, with FMM (Approximate)",160,All-Pairs Shortest Paths (APSP),1,1,"APSP, unweighted, undirected, with FMM (Approximate)","Dory, Forster, Kirkpatrick, Nazari, V. Williams, de Vos [Theorem 1.7]",2023,7.0,2.0,2.0,multiplicative-additive,yes,,0,0.0,1
+All-Pairs Shortest Paths (APSP),"APSP, weighted, undirected, no FMM (Approximate)",147,All-Pairs Shortest Paths (APSP),1,1,"APSP, weighted, undirected, no FMM (Approximate)","Awerbuch, Berger, Cohen, Peleg",1993,5.01,6.0,99999.0,multiplicative,yes,,0,0.0,1
+All-Pairs Shortest Paths (APSP),"APSP, weighted, undirected, no FMM (Approximate)",148,All-Pairs Shortest Paths (APSP),1,1,"APSP, weighted, undirected, no FMM (Approximate)",Cohen,1993,5.01,6.0,99999.0,multiplicative,yes,,0,0.0,0
+All-Pairs Shortest Paths (APSP),"APSP, weighted, undirected, no FMM (Approximate)",149,All-Pairs Shortest Paths (APSP),1,1,"APSP, weighted, undirected, no FMM (Approximate)",Cohen,1993,5.01,6.0,99999.0,multiplicative,yes,,0,0.0,0
+All-Pairs Shortest Paths (APSP),"APSP, weighted, undirected, no FMM (Approximate)",150,All-Pairs Shortest Paths (APSP),1,1,"APSP, weighted, undirected, no FMM (Approximate)","Baswana, Goyal, Sen",2009,5.33,3.0,2.0,multiplicative-additive,no,,0,0.0,1
+All-Pairs Shortest Paths (APSP),"APSP, weighted, undirected, no FMM (Approximate)",152,All-Pairs Shortest Paths (APSP),1,1,"APSP, weighted, undirected, no FMM (Approximate)","Baswana, Goyal, Sen",2009,5.01,3.0,2.0,multiplicative-additive,no,,0,0.0,0
+All-Pairs Shortest Paths (APSP),"APSP, weighted, undirected, no FMM (Approximate)",151,All-Pairs Shortest Paths (APSP),1,1,"APSP, weighted, undirected, no FMM (Approximate)","Dory, Forster, Kirkpatrick, Nazari, V. Williams, de Vos",2023,5.21,3.01,99999.0,multiplicative,yes,,0,0.0,0
+All-Pairs Shortest Paths (APSP),"Approximate Distance Oracle, Path-Reporting, unweighted, undirected, no FMM (Approximate)",189,All-Pairs Shortest Paths (APSP),2,1,"Approximate Distance Oracle, Path-Reporting, unweighted, undirected, no FMM (Approximate)","Elkin, Neiman, Wulff-Nilsen [Theorem 3]",2016,6.0,7.01,4.01,multiplicative-additive,yes,,0,0.0,1
+All-Pairs Shortest Paths (APSP),"Approximate Distance Oracle, Path-Reporting, unweighted, undirected, no FMM (Approximate)",190,All-Pairs Shortest Paths (APSP),2,1,"Approximate Distance Oracle, Path-Reporting, unweighted, undirected, no FMM (Approximate)","Elkin, Pettie [Theorem 6.8]",2016,5.01,4.0,2.0,multiplicative-additive,yes,,0,0.0,1
+All-Pairs Shortest Paths (APSP),"Approximate Distance Oracle, Path-Reporting, weighted, undirected, no FMM (Approximate)",186,All-Pairs Shortest Paths (APSP),2,1,"Approximate Distance Oracle, Path-Reporting, weighted, undirected, no FMM (Approximate)","Elkin, Neiman, Wulff-Nilsen [Theorem 2]",2016,6.0,7.01,99999.0,multiplicative,yes,,0,0.0,1
+All-Pairs Shortest Paths (APSP),"Approximate Distance Oracle, Path-Reporting, weighted, undirected, no FMM (Approximate)",187,All-Pairs Shortest Paths (APSP),2,1,"Approximate Distance Oracle, Path-Reporting, weighted, undirected, no FMM (Approximate)","Elkin, Pettie [Theorem 6.6]",2016,6.01,7.0,99999.0,multiplicative,no,,0,0.0,1
+All-Pairs Shortest Paths (APSP),"Approximate Distance Oracle, Path-Reporting, weighted, undirected, no FMM (Approximate)",188,All-Pairs Shortest Paths (APSP),2,1,"Approximate Distance Oracle, Path-Reporting, weighted, undirected, no FMM (Approximate)","Elkin, Pettie [Theorem 6.7]",2016,6.01,6.0,99999.0,multiplicative,yes,,0,0.0,1
+All-Pairs Shortest Paths (APSP),"Approximate Distance Oracle, unweighted, undirected, no FMM (Approximate)",179,All-Pairs Shortest Paths (APSP),2,1,"Approximate Distance Oracle, unweighted, undirected, no FMM (Approximate)","Baswana, Gaur, Sen, Upadhyay [Theorem 4]",2008,5.0,4.0,2.0,multiplicative-additive,no,,0,0.0,1
+All-Pairs Shortest Paths (APSP),"Approximate Distance Oracle, unweighted, undirected, no FMM (Approximate)",180,All-Pairs Shortest Paths (APSP),2,1,"Approximate Distance Oracle, unweighted, undirected, no FMM (Approximate)","Baswana, Gaur, Sen, Upadhyay [Theorem 5]",2008,5.0,4.5,2.0,multiplicative-additive,yes,,0,0.0,0
+All-Pairs Shortest Paths (APSP),"Approximate Distance Oracle, unweighted, undirected, no FMM (Approximate)",178,All-Pairs Shortest Paths (APSP),2,1,"Approximate Distance Oracle, unweighted, undirected, no FMM (Approximate)","Patrascu, Roditty",2010,5.66,3.0,2.0,multiplicative-additive,no,,0,0.0,1
+All-Pairs Shortest Paths (APSP),"Approximate Distance Oracle, unweighted, undirected, no FMM (Approximate)",181,All-Pairs Shortest Paths (APSP),2,1,"Approximate Distance Oracle, unweighted, undirected, no FMM (Approximate)",Sommer,2016,5.01,3.0,2.0,multiplicative-additive,no,,0,0.0,0
+All-Pairs Shortest Paths (APSP),"Approximate Distance Oracle, unweighted, undirected, no FMM (Approximate)",182,All-Pairs Shortest Paths (APSP),2,1,"Approximate Distance Oracle, unweighted, undirected, no FMM (Approximate)","Akav, Roditty",2020,5.01,3.01,2.0,multiplicative-additive,yes,,0,0.0,0
+All-Pairs Shortest Paths (APSP),"Approximate Distance Oracle, unweighted, undirected, no FMM (Approximate)",183,All-Pairs Shortest Paths (APSP),2,1,"Approximate Distance Oracle, unweighted, undirected, no FMM (Approximate)","Chechik, Zhang [Theorem 1.1]",2022,5.01,3.0,2.0,multiplicative-additive,no,,0,0.0,0
+All-Pairs Shortest Paths (APSP),"Approximate Distance Oracle, unweighted, undirected, no FMM (Approximate)",184,All-Pairs Shortest Paths (APSP),2,1,"Approximate Distance Oracle, unweighted, undirected, no FMM (Approximate)","Chechik, Zhang [Theorem 1.2]",2022,5.01,3.0,1.99,multiplicative-additive,yes,,0,0.0,1
+All-Pairs Shortest Paths (APSP),"Approximate Distance Oracle, unweighted, undirected, no FMM (Approximate)",185,All-Pairs Shortest Paths (APSP),2,1,"Approximate Distance Oracle, unweighted, undirected, no FMM (Approximate)","Chechik, Zhang [Theorem 1.3]",2022,5.01,3.01,1.99,multiplicative-additive,yes,,0,0.0,0
+All-Pairs Shortest Paths (APSP),"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)",161,All-Pairs Shortest Paths (APSP),2,1,"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)","Cohen, Zwick [STRETCH_2]",2001,5.5,3.0,99999.0,multiplicative,no,,0,0.0,1
+All-Pairs Shortest Paths (APSP),"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)",162,All-Pairs Shortest Paths (APSP),2,1,"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)","Cohen, Zwick [STRETCH_7/3]",2001,5.33,4.0,99999.0,multiplicative,no,,0,0.0,1
+All-Pairs Shortest Paths (APSP),"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)",163,All-Pairs Shortest Paths (APSP),2,1,"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)","Cohen, Zwick [STRETCH_3]",2001,5.01,4.0,99999.0,multiplicative,no,,0,0.0,1
+All-Pairs Shortest Paths (APSP),"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)",164,All-Pairs Shortest Paths (APSP),2,1,"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)","Thorup, Zwick",2005,5.01,6.0,99999.0,multiplicative,yes,,0,0.0,0
+All-Pairs Shortest Paths (APSP),"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)",165,All-Pairs Shortest Paths (APSP),2,1,"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)","Baswana, Kavitha [Theorem 3.3]",2010,5.01,3.0,3.0,multiplicative-additive,no,,0,0.0,1
+All-Pairs Shortest Paths (APSP),"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)",166,All-Pairs Shortest Paths (APSP),2,1,"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)","Baswana, Kavitha [Theorem 4.3]",2010,5.01,4.0,99999.0,multiplicative,no,,0,0.0,0
+All-Pairs Shortest Paths (APSP),"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)",167,All-Pairs Shortest Paths (APSP),2,1,"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)","Baswana, Kavitha [Theorem 6.6]",2010,5.01,6.0,99999.0,multiplicative,yes,,0,0.0,0
+All-Pairs Shortest Paths (APSP),"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)",168,All-Pairs Shortest Paths (APSP),2,1,"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)","Baswana, Kavitha [Algorithm 9]",2010,5.5,3.0,99999.0,multiplicative,no,,0,0.0,0
+All-Pairs Shortest Paths (APSP),"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)",169,All-Pairs Shortest Paths (APSP),2,1,"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)","Baswana, Kavitha [Algorithm 10]",2010,5.33,4.0,99999.0,multiplicative,no,,0,0.0,0
+All-Pairs Shortest Paths (APSP),"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)",170,All-Pairs Shortest Paths (APSP),1,1,"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)","Patrascu, Roditty",2010,5.0,3.0,99999.0,multiplicative,no,,0,0.0,1
+All-Pairs Shortest Paths (APSP),"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)",171,All-Pairs Shortest Paths (APSP),2,1,"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)",Wulff-Nilsen [Theorem 1],2012,5.0,4.5,99999.0,multiplicative,yes,,0,0.0,0
+All-Pairs Shortest Paths (APSP),"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)",172,All-Pairs Shortest Paths (APSP),2,1,"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)",Wulff-Nilsen [Theorem 3],2012,5.0,4.5,99999.0,multiplicative,yes,,0,0.0,0
+All-Pairs Shortest Paths (APSP),"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)",173,All-Pairs Shortest Paths (APSP),2,1,"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)",Wulff-Nilsen [Theorem 1],2013,5.0,4.5,99999.0,multiplicative,yes,,0,0.0,0
+All-Pairs Shortest Paths (APSP),"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)",174,All-Pairs Shortest Paths (APSP),2,1,"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)",Wulff-Nilsen [Theorem 3],2013,5.01,4.5,99999.0,multiplicative,yes,,0,0.0,0
+All-Pairs Shortest Paths (APSP),"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)",175,All-Pairs Shortest Paths (APSP),2,1,"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)",Chechik,2014,5.01,4.5,99999.0,multiplicative,yes,,0,0.0,0
+All-Pairs Shortest Paths (APSP),"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)",176,All-Pairs Shortest Paths (APSP),2,1,"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)",Chechik,2015,5.5,4.5,99999.0,multiplicative,yes,,0,0.0,0
+All-Pairs Shortest Paths (APSP),"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)",177,All-Pairs Shortest Paths (APSP),2,1,"Approximate Distance Oracle, weighted, undirected, no FMM (Approximate)","Dory, Forster, Kirkpatrick, Nazari, V. Williams, de Vos",2023,5.66,3.0,99999.0,multiplicative,no,,0,0.0,0
+Cardinality Estimation,streaming,441,Cardinality Estimation,1,1,streaming,Min/max sketches streaming algorithm,1980,3.0,4.0,99999.0,multiplicative,yes?,,0,0.0,1
+Cardinality Estimation,streaming,442,Cardinality Estimation,1,1,streaming,Bottom-m sketches streaming algorithm,1980,3.0,4.0,99999.0,multiplicative,yes?,,0,0.0,0
+Cardinality Estimation,streaming,443,Cardinality Estimation,2,1,streaming,"Kane, Nelson, Woodruff",2010,3.0,2.0,99999.0,multiplicative,yes,FPTAS,0,0.0,1
+Closest Pair Problem,"k-dimensional space, $l_m$ (or $l_\infty$) norm",133,Closest Pair Problem,1,1,"k-dimensional space, $l_m$ (or $l_\infty$) norm",,2010,4.5,4.0,99999.0,multiplicative,no,,0,0.0,1
+Convex Optimization (Non-linear),"General, Constrained optimization",260,Convex Optimization (Non-linear),1,1,"General, Constrained optimization",Wolfe; Lemaréchal; Kiwiel,1964,7.0,99999.0,1.99,additive,yes,,0,0.0,1
+Convex Optimization (Non-linear),"General, Constrained optimization",261,Convex Optimization (Non-linear),1,1,"General, Constrained optimization",Ellipsoid method,1971,5.01,99999.0,1.99,additive,yes,,0,0.0,1
+Convex Optimization (Non-linear),"General, Constrained optimization",262,Convex Optimization (Non-linear),1,1,"General, Constrained optimization",Subgradient method,1981,5.0,99999.0,1.99,additive,yes,,0,0.0,1
+Convex Optimization (Non-linear),ILP;MILPs,259,Convex Optimization (Non-linear),1,1,ILP;MILPs,Gomory's cutting method,1953,8.0,99999.0,1.99,additive,yes,,0,0.0,1
+Convex Optimization (Non-linear),Stochastic optimization,263,Convex Optimization (Non-linear),1,1,Stochastic optimization,Dual subgradients and the drift-plus-penalty method,1993,5.0,99999.0,1.99,additive,yes,,0,0.0,1
+Determinant of Matrices with Integer Entries,Approximate Log-Determinant of Sparse Positive-Definite Matrices,920,Determinant of Matrices with Integer Entries,1,1,Approximate Log-Determinant of Sparse Positive-Definite Matrices,,1999,4.0,99999.0,1.99,additive,yes,,0,0.0,1
+Determinant of Matrices with Integer Entries,Approximate Log-Determinant of Sparse Symmetric Positive-Definite Matrices,924,Determinant of Matrices with Integer Entries,1,1,Approximate Log-Determinant of Sparse Symmetric Positive-Definite Matrices,"Boutsidis, Drineas, Kambadur, Kontopoulou, Zouzias [Section 4]",2017,3.0,2.0,99999.0,multiplicative,yes,FPTAS?,0,0.0,1
+Discrete Fourier Transform,Nonequispaced Fourier Transform,339,Discrete Fourier Transform,1,1,Nonequispaced Fourier Transform,"Dutt, Rohklin",1993,4.0,99999.0,1.99,additive,yes,,0,0.0,1
+Eigenvalues (Iterative Methods),All eigenpairs; Eigenpair closest to mu; Any eigenpair; Any eigenvalue; All eigenvalues,349,Eigenvalues (Iterative Methods),1,1,All eigenpairs; Eigenpair closest to mu; Any eigenpair; Any eigenvalue; All eigenvalues,Homotopy method,1992,3.0,99999.0,1.99,additive,yes,,0,0.0,1
+Eigenvalues (Iterative Methods),All eigenvalues; Any eigenvalue,347,Eigenvalues (Iterative Methods),1,1,All eigenvalues; Any eigenvalue,Jacobi eigenvalue algorithm,1846,3.0,99999.0,1.99,additive,yes,,0,0.0,1
+Eigenvalues (Iterative Methods),All eigenvalues; Any eigenvalue,346,Eigenvalues (Iterative Methods),1,1,All eigenvalues; Any eigenvalue,QR algorithm,1962,3.0,99999.0,1.99,additive,yes,,0,0.0,0
+Eigenvalues (Iterative Methods),All eigenvalues; Any eigenvalue,348,Eigenvalues (Iterative Methods),1,1,All eigenvalues; Any eigenvalue,Divide-and-conquer,1986,2.51,99999.0,1.99,additive,yes,,0,0.0,1
+Eigenvalues (Iterative Methods),Any eigenpair; Any eigenvalue,342,Eigenvalues (Iterative Methods),2,1,Any eigenpair; Any eigenvalue,Rayleigh quotient iteration,1940,3.0,99999.0,1.99,additive,yes,,0,0.0,1
+Eigenvalues (Iterative Methods),Any eigenpair; Any eigenvalue,351,Eigenvalues (Iterative Methods),2,1,Any eigenpair; Any eigenvalue,MRRR algorithm,1999,2.5,99999.0,1.99,additive,yes,,0,0.0,1
+Eigenvalues (Iterative Methods),Any eigenvalue,352,Eigenvalues (Iterative Methods),1,1,Any eigenvalue,Rayleigh-Ritz method,1908,3.0,99999.0,1.99,additive,yes,,0,0.0,1
+Eigenvalues (Iterative Methods),Any eigenvalue,345,Eigenvalues (Iterative Methods),1,1,Any eigenvalue,Laguerre iteration,1940,3.0,99999.0,1.99,additive,yes,,0,0.0,0
+Eigenvalues (Iterative Methods),Any eigenvalue,344,Eigenvalues (Iterative Methods),1,1,Any eigenvalue,Bisection method,1985,3.0,99999.0,1.99,additive,yes,,0,0.0,0
+Eigenvalues (Iterative Methods),Eigenpair closest to mu; Any eigenpair; Any eigenvalue,341,Eigenvalues (Iterative Methods),2,1,Eigenpair closest to mu; Any eigenpair; Any eigenvalue,Inverse iteration,1921,3.0,99999.0,1.99,additive,yes,,0,0.0,1
+Eigenvalues (Iterative Methods),Eigenpair closest to mu; Any eigenpair; Any eigenvalue,350,Eigenvalues (Iterative Methods),1,1,Eigenpair closest to mu; Any eigenpair; Any eigenvalue,Folded spectrum method,1934,3.0,99999.0,1.99,additive,yes,,0,0.0,0
+Eigenvalues (Iterative Methods),Eigenpair closest to mu; Any eigenpair; Any eigenvalue,343,Eigenvalues (Iterative Methods),1,1,Eigenpair closest to mu; Any eigenpair; Any eigenvalue,LOBPCG algorithm,1948,3.0,99999.0,1.99,additive,yes,,0,0.0,0
+Eigenvalues (Iterative Methods),Eigenpair with the Largest Eigenvalue,340,Eigenvalues (Iterative Methods),2,1,Eigenpair with the Largest Eigenvalue,Power Iteration,1929,3.0,99999.0,1.99,additive,yes,,0,0.0,1
+LU Decomposition,Approximate Rectangular Matrix LU Decomposition,193,LU Decomposition,1,1,Approximate Rectangular Matrix LU Decomposition,Randomized LU decomposition using sparse projections,2016,4.5,99999.0,5.0,additive,yes,,0,0.0,1
+LU Decomposition,Approximate Rectangular Matrix LU Decomposition,191,LU Decomposition,1,1,Approximate Rectangular Matrix LU Decomposition,Randomized LU Decomposition,2018,4.5,99999.0,7.0,additive,yes,,0,0.0,0
+LU Decomposition,Approximate Rectangular Matrix LU Decomposition,192,LU Decomposition,1,1,Approximate Rectangular Matrix LU Decomposition,Randomized LU Decomposition,2018,4.5,99999.0,7.0,additive,yes,,0,0.0,0
+Linear System,Iterative Method,91,Linear System,1,1,Iterative Method,GMRES,1986,5.0,99999.0,1.99,additive,yes,,0,0.0,1
+Linear System,Iterative Method,83,Linear System,1,1,Iterative Method,Gower-Richtarik,2015,,99999.0,1.99,additive,yes,,0,0.0,0
+Linear System,"Positive Definite Matrix, Iterative Method",73,Linear System,2,1,"Positive Definite Matrix, Iterative Method",Conjugate Gradient,1952,3.0,99999.0,1.99,additive,yes,,0,0.0,1
+Linear System,"Sparse, Diagonally dominant matrix, Iterative Method",93,Linear System,1,1,"Sparse, Diagonally dominant matrix, Iterative Method",Jacobi Iteration,1823,3.0,99999.0,1.99,additive,yes,,0,0.0,1
+Linear System,"Sparse, Iterative Method",74,Linear System,1,1,"Sparse, Iterative Method","Peng, Vempala",2020,,99999.0,1.99,additive,yes,,0,0.0,1
+Linear System,"Sparse, Iterative Method",86,Linear System,1,1,"Sparse, Iterative Method",PLSS,2022,3.0,99999.0,1.99,additive,yes,,0,0.0,0
+Linear System,"Sparse, Iterative Method, Sparse Least Squares",87,Linear System,1,1,"Sparse, Iterative Method, Sparse Least Squares",LSQR,1982,3.0,99999.0,1.99,additive,yes,,0,0.0,1
+Linear System,"Sparse, Iterative Method, Sparse Least Squares",88,Linear System,1,1,"Sparse, Iterative Method, Sparse Least Squares",LSMR,2011,3.0,99999.0,1.99,additive,yes,,0,0.0,0
+Linear System,"Sparse, Overdetermined System, Iterative Method",81,Linear System,1,1,"Sparse, Overdetermined System, Iterative Method",Kaczmarz Method,1937,3.0,99999.0,1.99,additive,yes,,0,0.0,1
+Linear System,"Sparse, Overdetermined System, Iterative Method",82,Linear System,1,1,"Sparse, Overdetermined System, Iterative Method",Randomized Kaczmarz,2008,3.0,99999.0,1.99,additive,yes,,0,0.0,0
+Linear System,"Sparse, Symmetric positive definite, Iterative Method",94,Linear System,1,1,"Sparse, Symmetric positive definite, Iterative Method",Gauss-Seidel Iteration,1874,3.0,99999.0,1.99,additive,yes,,0,0.0,1
+Linear System,"Sparse, Symmetric, Iterative Method",90,Linear System,1,1,"Sparse, Symmetric, Iterative Method",MINRES,1975,3.0,99999.0,1.99,additive,yes,,0,0.0,1
+Linear System,"Toeplitz, Iterative Method",76,Linear System,2,1,"Toeplitz, Iterative Method",Strang's preconditioner,1986,4.0,99999.0,1.99,additive,yes,,0,0.0,1
+Link Analysis,Link Analysis,868,Link Analysis,1,1,Link Analysis,,2011,4.5,99999.0,1.99,additive,yes,,0,0.0,1
+Link Analysis,Link Analysis,870,Link Analysis,1,1,Link Analysis,,2014,4.66,2.0,99999.0,multiplicative,yes,FPRAS,0,0.0,1
+Matrix Chain Multiplication,Approximate MCOP,14,Matrix Chain Multiplication,1,1,Approximate MCOP,Chandra,1975,3.0,3.0,99999.0,multiplicative,no,,0,0.0,1
+Matrix Chain Multiplication,Approximate MCOP,15,Matrix Chain Multiplication,2,1,Approximate MCOP,Chin,1978,3.0,2.2485,99999.0,multiplicative,no,,0,0.0,1
+Matrix Chain Multiplication,Approximate MCOP,13,Matrix Chain Multiplication,2,1,Approximate MCOP,"Hu, Tsing",1981,3.0,2.1547,99999.0,multiplicative,no,,0,0.0,1
+Matrix Product,Approximate Matrix Multiplication,49,Matrix Product,1,1,Approximate Matrix Multiplication,,2006,3.0,99999.0,1.99,additive,yes,,0,0.0,1
+Matrix Product,Approximate Matrix Multiplication,50,Matrix Product,1,1,Approximate Matrix Multiplication,,2006,3.0,99999.0,1.99,additive,yes,,0,0.0,0
+Matrix Product,Approximate Matrix Multiplication,52,Matrix Product,1,1,Approximate Matrix Multiplication,,2009,3.0,99999.0,1.99,additive,yes,,0,0.0,0
+Matrix Product,Approximate Matrix Multiplication,53,Matrix Product,1,1,Approximate Matrix Multiplication,,2011,4.0,99999.0,1.99,additive,yes,,0,0.0,0
+Matrix Product,Approximate Matrix Multiplication,54,Matrix Product,1,1,Approximate Matrix Multiplication,,2014,3.0,99999.0,1.99,additive,yes,,0,0.0,0
+Matrix Product,Approximate Matrix Multiplication,55,Matrix Product,1,1,Approximate Matrix Multiplication,,2015,3.0,99999.0,1.99,additive,yes,,0,0.0,0
+Matrix Product,Approximate Matrix Multiplication,56,Matrix Product,1,1,Approximate Matrix Multiplication,,2016,3.0,99999.0,1.99,additive,yes,,0,0.0,0
+Matrix Product,Approximate Matrix Multiplication,57,Matrix Product,1,1,Approximate Matrix Multiplication,,2017,3.0,99999.0,1.99,additive,yes,,0,0.0,0
+Matrix Product,Approximate Matrix Multiplication,58,Matrix Product,1,1,Approximate Matrix Multiplication,,2022,3.0,99999.0,1.99,additive,yes,,0,0.0,0
+Matrix Product,Arbitrary Precision Approximating Matrix Multiplication,47,Matrix Product,1,1,Arbitrary Precision Approximating Matrix Multiplication,Bini's algorithm,1979,4.38995,99999.0,1.99,additive,yes,,0,0.0,1
+Matrix Product,Arbitrary Precision Approximating Matrix Multiplication,48,Matrix Product,1,1,Arbitrary Precision Approximating Matrix Multiplication,Schonhage's algorithm,1980,4.2609,99999.0,1.99,additive,yes,,0,0.0,1
+Maximum Cardinality Matching,"MCM Size, General (Approximate)",241,Maximum Cardinality Matching,1,1,"MCM Size, General (Approximate)","Kalantari, Shokoufandeh",1995,5.0,2.0,99999.0,multiplicative,no,FPTAS,0,0.0,1
+Maximum Cardinality Matching,"MCM Size, General (Approximate)",242,Maximum Cardinality Matching,1,1,"MCM Size, General (Approximate)","Duan, Pettie",2014,6.0,2.0,99999.0,multiplicative,no,FPTAS,0,0.0,0
+Maximum Cardinality Matching,"MCM Size, General (Approximate)",228,Maximum Cardinality Matching,1,1,"MCM Size, General (Approximate)","Chen, Kannan, Khanna",2020,4.5,3.0,5.99,multiplicative-additive,yes,,0,0.0,1
+Maximum Cardinality Matching,"MCM Size, General (Approximate)",229,Maximum Cardinality Matching,1,1,"MCM Size, General (Approximate)",Behnezhad [Theorem 1.2],2021,4.0,3.01,99999.0,multiplicative,yes,,0,0.0,1
+Maximum Cardinality Matching,"MCM Size, General (Approximate)",231,Maximum Cardinality Matching,1,1,"MCM Size, General (Approximate)",Behnezhad [Theorem 1.4],2021,4.0,3.0,5.99,multiplicative-additive,yes,,0,0.0,0
+Maximum Cardinality Matching,"MCM Size, General (Approximate)",232,Maximum Cardinality Matching,1,1,"MCM Size, General (Approximate)","Behnezhad, Roghani, Rubinstein, Saberi [Theorem 1.1-1]",2021,4.01,3.01,99999.0,multiplicative,yes,,0,0.0,0
+Maximum Cardinality Matching,"MCM Size, General (Approximate)",234,Maximum Cardinality Matching,1,1,"MCM Size, General (Approximate)","Behnezhad, Roghani, Rubinstein, Saberi [Theorem 1.1-3]",2021,4.01,3.01,5.99,multiplicative-additive,yes,,0,0.0,0
+Maximum Cardinality Matching,"MCM Size, General (Approximate)",235,Maximum Cardinality Matching,1,1,"MCM Size, General (Approximate)","Behnezhad, Roghani, Rubinstein [Theorem 1.2-1]",2023,4.99,2.5,99999.0,multiplicative,yes,,0,0.0,0
+Maximum Cardinality Matching,"MCM Size, General (Approximate)",236,Maximum Cardinality Matching,1,1,"MCM Size, General (Approximate)","Behnezhad, Roghani, Rubinstein [Theorem 1.2-2]",2023,4.99,2.5,5.99,multiplicative-additive,yes,,0,0.0,0
+Maximum Cardinality Matching,"MCM Size, General (Approximate)",237,Maximum Cardinality Matching,1,1,"MCM Size, General (Approximate)","Behnezhad, Roghani, Rubinstein [Theorem 1.4-1]",2023,4.99,2.49,99999.0,multiplicative,no,,0,0.0,0
+Maximum Cardinality Matching,"MCM Size, General (Approximate)",238,Maximum Cardinality Matching,1,1,"MCM Size, General (Approximate)","Behnezhad, Roghani, Rubinstein [Theorem 1.4-2]",2023,4.99,2.49,5.99,multiplicative-additive,no,,0,0.0,0
+Maximum Cardinality Matching,"MCM Size, Sparse (Approximate)",220,Maximum Cardinality Matching,1,1,"MCM Size, Sparse (Approximate)","Parnas, Ron (implicit?)",2005,8.0,4.0,5.99,multiplicative-additive,yes,,0,0.0,1
+Maximum Cardinality Matching,"MCM Size, Sparse (Approximate)",221,Maximum Cardinality Matching,1,1,"MCM Size, Sparse (Approximate)","Nguyen, Onak [Corollary 2]",2008,8.0,3.0,5.99,multiplicative-additive,yes,,0,0.0,1
+Maximum Cardinality Matching,"MCM Size, Sparse (Approximate)",222,Maximum Cardinality Matching,1,1,"MCM Size, Sparse (Approximate)","Nguyen, Onak [Corollary 9]",2008,8.0,99999.0,5.99,additive,yes,,0,0.0,0
+Maximum Cardinality Matching,"MCM Size, Sparse (Approximate)",223,Maximum Cardinality Matching,1,1,"MCM Size, Sparse (Approximate)","Yoshida, Yamamoto, Ito [Theorem 3.1]",2009,7.0,3.0,5.99,multiplicative-additive,yes,,0,0.0,1
+Maximum Cardinality Matching,"MCM Size, Sparse (Approximate)",224,Maximum Cardinality Matching,1,1,"MCM Size, Sparse (Approximate)","Yoshida, Yamamoto, Ito [Theorem 3.7]",2009,8.0,2.0,5.99,multiplicative-additive,yes,,0,0.0,1
+Maximum Cardinality Matching,"MCM Size, Sparse (Approximate)",225,Maximum Cardinality Matching,1,1,"MCM Size, Sparse (Approximate)","Yoshida, Yamamoto, Ito [Corollary 3.8]",2009,7.0,99999.0,5.99,additive,yes,,0,0.0,0
+Maximum Cardinality Matching,"MCM Size, Sparse (Approximate)",226,Maximum Cardinality Matching,1,1,"MCM Size, Sparse (Approximate)","Onak, Ron, Rosen, Rubinfeld (implicit)",2011,5.01,3.0,5.99,multiplicative-additive,yes,,0,0.0,1
+Maximum Cardinality Matching,"MCM Size, Sparse (Approximate)",230,Maximum Cardinality Matching,1,1,"MCM Size, Sparse (Approximate)",Behnezhad [Theorem 1.3],2021,4.0,3.0,5.99,multiplicative-additive,yes,,0,0.0,1
+Maximum Cardinality Matching,"MCM Size, Sparse (Approximate)",233,Maximum Cardinality Matching,1,1,"MCM Size, Sparse (Approximate)","Behnezhad, Roghani, Rubinstein, Saberi [Theorem 1.1-2]",2021,4.01,3.01,5.99,multiplicative-additive,yes,,0,0.0,0
+Maximum Cardinality Matching,MCM in Bipartite Graphs (Approximate),218,Maximum Cardinality Matching,1,1,MCM in Bipartite Graphs (Approximate),"Hopcroft, Karp (implicit)",1971,5.0,2.0,99999.0,multiplicative,yes,FPTAS,0,0.0,1
+Maximum Cardinality Matching,"MCM, General (Approximate)",219,Maximum Cardinality Matching,1,1,"MCM, General (Approximate)",Micali and Vazirani (implicit),1980,5.0,2.0,99999.0,multiplicative,yes,FPTAS,0,0.0,1
+Maximum Cut,"Maximum Cut, Approximate",878,Maximum Cut,1,1,"Maximum Cut, Approximate","Sahni, Gonzales",1976,5.0,3.0,99999.0,multiplicative,no,,0,0.0,1
+Maximum Cut,"Maximum Cut, Approximate",879,Maximum Cut,1,1,"Maximum Cut, Approximate",Vitanyi,1981,6.0,2.99,99999.0,multiplicative,no,,0,0.0,1
+Maximum Cut,"Maximum Cut, Approximate",880,Maximum Cut,1,1,"Maximum Cut, Approximate","Poljak, Turzik",1982,6.0,2.99,99999.0,multiplicative,no,,0,0.0,0
+Maximum Cut,"Maximum Cut, Approximate",881,Maximum Cut,1,1,"Maximum Cut, Approximate","Haglin, Venkatesan",1991,4.0,2.99,99999.0,multiplicative,no,,0,0.0,1
+Maximum Cut,"Maximum Cut, Approximate",883,Maximum Cut,1,1,"Maximum Cut, Approximate","Cho, Raje, Sarrafzadeh",1994,5.0,2.99,99999.0,multiplicative,no,,0,0.0,0
+Maximum Cut,"Maximum Cut, Approximate",884,Maximum Cut,1,1,"Maximum Cut, Approximate",Motwani & Raghavan,1995,3.0,3.0,99999.0,multiplicative,no,,0,0.0,1
+Maximum Cut,"Maximum Cut, Approximate",885,Maximum Cut,1,1,"Maximum Cut, Approximate","Hofmeister, Lefmann",1995,5.0,2.99,99999.0,multiplicative,no,,0,0.0,0
+Maximum Cut,"Maximum Cut, Approximate",886,Maximum Cut,1,1,"Maximum Cut, Approximate","Goemans, Williamson",1995,6.01,2.239,99999.0,multiplicative,no,,0,0.0,1
+Maximum Cut,"Maximum Cut, Approximate",887,Maximum Cut,1,1,"Maximum Cut, Approximate","Mahajan, Ramesh",1999,7.0,2.239,99999.0,multiplicative,no,,0,0.0,0
+Maximum Cut,"Maximum Cut, Approximate",888,Maximum Cut,1,1,"Maximum Cut, Approximate",Mitzenmacher & Upfal,2005,6.0,3.0,99999.0,multiplicative,no,,0,0.0,0
+Maximum Cut,"Maximum Cut, Approximate",889,Maximum Cut,1,1,"Maximum Cut, Approximate","Khuller; Raghavachari & Young, ""Greedy Methods""",2007,5.0,3.0,99999.0,multiplicative,no,,0,0.0,0
+Maximum Cut,"Maximum Directed Cut, Approximate",891,Maximum Cut,1,1,"Maximum Directed Cut, Approximate","Goemans, Williamson",1995,6.01,2.257,99999.0,multiplicative,no,,0,0.0,1
+Maximum Cut,"Maximum Directed Cut, Approximate",892,Maximum Cut,1,1,"Maximum Directed Cut, Approximate","Feige, Goemans",1995,7.0,2.164,99999.0,multiplicative,no,,0,0.0,1
+Maximum Cut,"Maximum Directed Cut, Approximate",893,Maximum Cut,1,1,"Maximum Directed Cut, Approximate","Mahajan, Ramesh",1999,7.0,2.257,99999.0,multiplicative,no,,0,0.0,0
+Maximum Cut,"Maximum Directed Cut, Approximate",895,Maximum Cut,1,1,"Maximum Directed Cut, Approximate","Matuura, Matsui",2001,7.0,2.159,99999.0,multiplicative,no,,0,0.0,1
+Maximum Cut,"Maximum Directed Cut, Approximate",896,Maximum Cut,1,1,"Maximum Directed Cut, Approximate","Lewin, Livnat, Zwick",2002,7.0,2.145,99999.0,multiplicative,no,,0,0.0,1
+Maximum Cut,"Maximum Directed Cut, Approximate",897,Maximum Cut,1,1,"Maximum Directed Cut, Approximate","Brakensiek, Huang, Potechin, Zwick",2022,7.0,2.144,99999.0,multiplicative,no,,0,0.0,1
+Maximum Flow,Approximate Maximum Flow,32,Maximum Flow,1,1,Approximate Maximum Flow,Karger (Corollary 5.4),1994,7.0,2.0,99999.0,multiplicative,yes,FPRAS,0,0.0,1
+Maximum Flow,Approximate Maximum Flow,19,Maximum Flow,1,1,Approximate Maximum Flow,Karger,1997,5.5,2.0,99999.0,multiplicative,yes,FPRAS,0,0.0,1
+Maximum Flow,Approximate Maximum Flow,18,Maximum Flow,1,1,Approximate Maximum Flow,"Goldberg, Rao",1998,6.01,2.0,99999.0,multiplicative,yes,FPRAS,0,0.0,0
+Maximum Flow,Approximate Maximum Flow,20,Maximum Flow,1,1,Approximate Maximum Flow,"Christiano, Kelner, Madry, Spielman, Teng (Theorem 3.3)",2011,6.01,2.0,99999.0,multiplicative,yes,FPRAS,0,0.0,0
+Maximum Flow,Approximate Maximum Flow,21,Maximum Flow,1,1,Approximate Maximum Flow,"Christiano, Kelner, Madry, Spielman, Teng (Theorem 4.3)",2011,5.66,2.0,99999.0,multiplicative,yes,FPRAS,0,0.0,0
+Maximum Flow,Approximate Maximum Flow,22,Maximum Flow,1,1,Approximate Maximum Flow,"Christiano, Kelner, Madry, Spielman, Teng (Theorem 4.5)",2011,5.33,2.0,99999.0,multiplicative,yes,FPRAS,0,0.0,1
+Maximum Flow,Approximate Maximum Flow,23,Maximum Flow,1,1,Approximate Maximum Flow,"Lee, Rao, Srivastava (Remark 4)",2013,6.01,2.0,99999.0,multiplicative,yes,FPRAS,0,0.0,0
+Maximum Flow,Approximate Maximum Flow,24,Maximum Flow,1,1,Approximate Maximum Flow,Sherman,2013,5.02,2.0,99999.0,multiplicative,yes,FPRAS,0,0.0,1
+Maximum Flow,Approximate Maximum Flow,25,Maximum Flow,1,1,Approximate Maximum Flow,"Kelner, Lee, Orecchia, Sidford",2014,5.02,2.0,99999.0,multiplicative,yes,FPRAS,0,0.0,0
+Maximum Flow,Approximate Maximum Flow,26,Maximum Flow,1,1,Approximate Maximum Flow,Peng,2016,5.01,2.0,99999.0,multiplicative,yes,FPRAS,0,0.0,1
+Maximum Flow,Approximate Maximum Flow,27,Maximum Flow,1,1,Approximate Maximum Flow,Sherman,2017,5.02,2.0,99999.0,multiplicative,yes,FPRAS,0,0.0,0
+Maximum Flow,Approximate Maximum Flow,28,Maximum Flow,1,1,Approximate Maximum Flow,"Sidford, Tian",2018,5.0,2.0,99999.0,multiplicative,yes,FPRAS,0,0.0,1
+Maximum Flow,Approximate Maximum Flow,34,Maximum Flow,1,1,Approximate Maximum Flow,"Kathuria, Liu, Sidford",2020,5.02,99999.0,6.99,additive,yes,,0,0.0,1
+Maximum Flow,"Approximate Maximum Flow, unweighted",30,Maximum Flow,1,1,"Approximate Maximum Flow, unweighted",Karger (Lemma 3.5),1994,6.01,2.0,99999.0,multiplicative,yes,FPRAS,0,0.0,1
+Maximum Flow,"Approximate Maximum Flow, unweighted",31,Maximum Flow,1,1,"Approximate Maximum Flow, unweighted",Karger (Corollary 3.6),1994,6.01,2.0,99999.0,multiplicative,yes,FPRAS,0,0.0,0
+Maximum Flow,"Approximate Maximum Flow, unweighted",33,Maximum Flow,1,1,"Approximate Maximum Flow, unweighted","Lee, Rao, Srivastava",2013,5.33,2.0,99999.0,multiplicative,yes,FPRAS,0,0.0,1
+Maximum Flow,"Approximate Maximum Flow, unweighted?",29,Maximum Flow,1,1,"Approximate Maximum Flow, unweighted?","Karger, Levine",2015,5.5,2.0,99999.0,multiplicative,yes,FPRAS,0,0.0,1
+Maximum-Weight Matching,MWM in Bipartite Graphs (Approximate),325,Maximum-Weight Matching,1,1,MWM in Bipartite Graphs (Approximate),"Gabow, Tarjan (implicit)",1989,5.5,2.0,99999.0,multiplicative,yes,FPTAS,0,0.0,1
+Maximum-Weight Matching,"MWM, General (Approximate)",326,Maximum-Weight Matching,1,1,"MWM, General (Approximate)","Gabow, Tarjan (implicit)",1991,5.5,2.0,99999.0,multiplicative,yes,FPTAS,0,0.0,1
+Maximum-Weight Matching,"MWM, General (Approximate)",327,Maximum-Weight Matching,1,1,"MWM, General (Approximate)",Preis,1999,5.0,3.0,99999.0,multiplicative,no,,0,0.0,1
+Maximum-Weight Matching,"MWM, General (Approximate)",328,Maximum-Weight Matching,1,1,"MWM, General (Approximate)","Drake, Hougardy",2003,5.0,2.5,99999.0,multiplicative,yes,,0,0.0,0
+Maximum-Weight Matching,"MWM, General (Approximate)",329,Maximum-Weight Matching,1,1,"MWM, General (Approximate)","Pettie, Sanders",2004,5.0,2.5,99999.0,multiplicative,yes,,0,0.0,0
+Maximum-Weight Matching,"MWM, General (Approximate)",331,Maximum-Weight Matching,1,1,"MWM, General (Approximate)","Duan, Pettie [Theorem 1]",2010,5.01,2.0,99999.0,multiplicative,yes,FPTAS,0,0.0,0
+Maximum-Weight Matching,"MWM, General (Approximate)",332,Maximum-Weight Matching,1,1,"MWM, General (Approximate)","Duan, Pettie [Theorem 2]",2010,5.01,2.33,99999.0,multiplicative,yes,,0,0.0,0
+Maximum-Weight Matching,"MWM, General (Approximate)",333,Maximum-Weight Matching,1,1,"MWM, General (Approximate)","Hanke, Hougardy [Theorem 9]",2010,5.01,2.33,99999.0,multiplicative,yes,,0,0.0,0
+Maximum-Weight Matching,"MWM, General (Approximate)",334,Maximum-Weight Matching,1,1,"MWM, General (Approximate)","Hanke, Hougardy [Theorem 10]",2010,5.01,2.25,99999.0,multiplicative,yes,,0,0.0,0
+Maximum-Weight Matching,"MWM, General (Approximate)",335,Maximum-Weight Matching,1,1,"MWM, General (Approximate)","Duan, Pettie, Su",2011,5.0,2.0,99999.0,multiplicative,yes,FPTAS,0,0.0,0
+Maximum-Weight Matching,"MWM, General, Integer Weights (Approximate)",336,Maximum-Weight Matching,1,1,"MWM, General, Integer Weights (Approximate)","Duan, Pettie, Su",2011,5.0,2.0,99999.0,multiplicative,yes,FPTAS,0,0.0,1
+Minimum Spanning Tree (MST),"Undirected, General MST (Approximate)",107,Minimum Spanning Tree (MST),1,1,"Undirected, General MST (Approximate)","Chazelle, Rubinfeld, Trevisan",2005,4.0,2.0,99999.0,multiplicative,yes,FPTAS,0,0.0,1
+Minimum Spanning Tree (MST),"Undirected, Integer-Weight MST (Approximate)",108,Minimum Spanning Tree (MST),1,1,"Undirected, Integer-Weight MST (Approximate)","Chazelle, Rubinfeld, Trevisan",2005,4.0,2.0,99999.0,multiplicative,yes,FPTAS,0,0.0,1
+Nash Equilibria,2-player,278,Nash Equilibria,1,1,2-player,Lipton; Mehta,2003,8.0,99999.0,1.99,additive,yes,,0,0.0,1
+Nash Equilibria,2-player,289,Nash Equilibria,1,1,2-player,"Lipton, Markakis, Mehta",2003,8.0,99999.0,1.99,additive,yes,,,,0
+Nash Equilibria,2-player,287,Nash Equilibria,1,1,2-player,"Kontogiannis, Panagopoulou, Spirakis (1)",2006,7.0,99999.0,2.0,additive,no,,,,1
+Nash Equilibria,2-player,288,Nash Equilibria,1,1,2-player,"Kontogiannis, Panagopoulou, Spirakis (2)",2006,7.0,99999.0,2.0,additive,yes,,,,0
+Nash Equilibria,2-player,290,Nash Equilibria,1,1,2-player,"Tsaknakis, Spirakis (2007)",2007,7.0,99999.0,2.0,additive,yes,,,,0
+Nash Equilibria,2-player,317,Nash Equilibria,1,1,2-player,"Bosse, Byrka, Markakis (2007) (1)",2007,7.0,99999.0,2.0,additive,yes,,0,0.0,0
+Nash Equilibria,2-player,318,Nash Equilibria,1,1,2-player,"Bosse, Byrka, Markakis (2007) (2)",2007,7.0,99999.0,2.0,additive,yes,,0,0.0,0
+Nash Equilibria,2-player,321,Nash Equilibria,1,1,2-player,"Feder, Nazerzadeh, Saberi",2007,7.0,99999.0,2.0,additive,yes,,0,0.0,0
+Nash Equilibria,2-player,322,Nash Equilibria,1,1,2-player,"Kontogiannis, Spirakis ",2007,7.0,99999.0,2.0,additive,no,,,,0
+Nash Equilibria,2-player,286,Nash Equilibria,1,1,2-player,"Daskalakis, Mehta, Papadimitriou (2009)",2009,3.0,99999.0,2.0,additive,no,,,,1
+Nash Equilibria,n-player,295,Nash Equilibria,1,1,n-player,"Daskalakis, Papadimitriou (2007) - 1",2007,,,,additive,yes,,,,1
+Nash Equilibria,n-player,306,Nash Equilibria,1,1,n-player,"Hémon, Rougemont, Santha ",2008,,,,additive,yes,,,,0
+Nash Equilibria,n-player,298,Nash Equilibria,1,1,n-player,"Babichenko, Barman, Peretz",2014,,,,additive,yes,,,,0
+Nash Equilibria,n-player,284,Nash Equilibria,1,1,n-player,"Barman, Ligett, Piliouras ",2015,8.0,99999.0,1.99,additive,yes,,,,0
+Nash Equilibria,n-player,314,Nash Equilibria,1,1,n-player,"Deligkas, Fearnley, Savani, Spirakis ",2015,7.0,99999.0,2.0,additive,yes,,,,0
+Nash Equilibria,n-player,309,Nash Equilibria,1,1,n-player,Barman,2018,,,,additive,yes,,,,0
+Nearest Neighbor Search,ANNS,398,Nearest Neighbor Search,1,1,ANNS,"Arya, Mount",1993,5.0,2.0,99999.0,multiplicative,yes,FPRAS,0,0.0,1
+Nearest Neighbor Search,ANNS,385,Nearest Neighbor Search,1,1,ANNS,Kleinberg (2),1997,4.0,2.0,99999.0,multiplicative,yes,FPTAS,0,0.0,1
+Nearest Neighbor Search,ANNS,386,Nearest Neighbor Search,1,1,ANNS,"ANNS - Arya, Mount, Netanyahu, Silverman, Wu
+
+",1998,4.0,2.0,99999.0,multiplicative,yes,FPTAS,0,0.0,0
+Nearest Neighbor Search,ANNS,402,Nearest Neighbor Search,1,1,ANNS,"Kushilevitz, Ostrovsky, Rabani ",1998,7.0,2.0,99999.0,multiplicative,yes,FPRAS,0,0.0,0
+Nearest Neighbor Search,ANNS,427,Nearest Neighbor Search,1,1,ANNS,"Indyk, Motwani (1)",1998,4.01,2.0,99999.0,multiplicative,yes,PRAS,0,0.0,0
+Nearest Neighbor Search,ANNS,428,Nearest Neighbor Search,1,1,ANNS,"Indyk, Motwani (2)",1998,3.0,2.0,99999.0,multiplicative,yes,PRAS ?,0,0.0,1
+Nearest Neighbor Search,ANNS,429,Nearest Neighbor Search,1,1,ANNS,"Indyk, Motwani (3)",1998,3.0,2.0,99999.0,multiplicative,yes,FPRAS,0,0.0,0
+Nearest Neighbor Search,ANNS,405,Nearest Neighbor Search,1,1,ANNS,Panigrahy,2005,6.55,2.0,99999.0,multiplicative,yes,FPRAS,0,0.0,0
+Nearest Neighbor Search,ANNS,432,Nearest Neighbor Search,1,1,ANNS,cover tree,2006,4.0,2.0,99999.0,multiplicative,yes,FPTAS,0,0.0,0
+Nearest Neighbor Search,ANNS,400,Nearest Neighbor Search,1,1,ANNS,"(t,epsilon)-AVD",2009,3.0,2.0,99999.0,multiplicative,yes,FPTAS,0,0.0,0
+Nearest Neighbor Search,ANNS,373,Nearest Neighbor Search,1,1,ANNS,NN1,2010,2.5,4.0,99999.0,multiplicative,no,,0,0.0,1
+Nearest Neighbor Search,ANNS,395,Nearest Neighbor Search,1,1,ANNS,Collision Counting LSH (C2LSH),2012,4.0,2.0,99999.0,multiplicative,yes,FPRAS,0,0.0,0
+Nearest Neighbor Search,ANNS,399,Nearest Neighbor Search,1,1,ANNS,"Sun, Wang, Qin, Zhang, Lin",2014,3.0,2.0,99999.0,multiplicative,yes,FPRAS,0,0.0,0
+Nearest Neighbor Search,ANNS,421,Nearest Neighbor Search,1,1,ANNS,SK-LSH,2014,3.0,2.0,99999.0,multiplicative,yes,FPRAS,0,0.0,0
+Nearest Neighbor Search,ANNS,396,Nearest Neighbor Search,1,1,ANNS,Query-aware LSH (QALSH),2015,4.0,2.0,99999.0,multiplicative,yes,FPRAS,0,0.0,0
+Nearest Neighbor Search,ANNS,413,Nearest Neighbor Search,1,1,ANNS,HD-Index,2018,3.0,2.0,99999.0,multiplicative,yes,FPTAS,0,0.0,0
+Nearest Neighbor Search,ANNS,433,Nearest Neighbor Search,1,1,ANNS,RPTree,2019,4.0,2.0,99999.0,multiplicative,yes,FPTAS,0,0.0,0
+Nearest Neighbor Search,ANNS,397,Nearest Neighbor Search,1,1,ANNS,Virtual Hypersphere Partitioning (VHP),2020,3.0,2.0,99999.0,multiplicative,yes,FPRAS,0,0.0,0
+Nearest Neighbor Search,k-ANNS,372,Nearest Neighbor Search,1,1,k-ANNS,Compression/Clustering [Vector Quantization],1992,3.0,2.9,99999.0,multiplicative,yes?,,0,0.0,1
+Nearest Neighbor Search,k-ANNS,384,Nearest Neighbor Search,1,1,k-ANNS,Kleinberg (1),1997,7.0,2.0,99999.0,multiplicative,yes,FPTAS,0,0.0,1
+Nearest Neighbor Search,k-ANNS,387,Nearest Neighbor Search,1,1,k-ANNS,"k-ANNS - Arya, Mount, Netanyahu, Silverman, Wu
+
+",1998,4.0,2.0,99999.0,multiplicative,yes,FPTAS,0,0.0,0
+Nearest Neighbor Search,k-ANNS,370,Nearest Neighbor Search,1,1,k-ANNS,Locality-sensitive hashing,2010,3.0,2.9,99999.0,multiplicative,yes?,,0,0.0,0
+Nearest Neighbor Search,k-ANNS,369,Nearest Neighbor Search,1,1,k-ANNS,Hierarchical Navigable Small World (HNSW),2018,4.0,2.9,99999.0,multiplicative,yes?,,0,0.0,0
+Nearest Neighbor Search,k-ANNS,401,Nearest Neighbor Search,1,1,k-ANNS,PM-LSH,2020,3.0,2.0,99999.0,multiplicative,yes,FPRAS,0,0.0,0
+Nearest Neighbor Search,k-ANNS for a dense 3D map of geometric points,371,Nearest Neighbor Search,1,1,k-ANNS for a dense 3D map of geometric points,Projected radial search,2013,3.0,2.9,99999.0,multiplicative,yes?,,0,0.0,1
+Optimal Binary Search Trees,Approximate OBST,266,Optimal Binary Search Trees,1,1,Approximate OBST,Melhorn's Approximation algorithm,1975,3.0,4.0,99999.0,multiplicative,no,,0,0.0,1
+Optimal Binary Search Trees,Approximate OBST,270,Optimal Binary Search Trees,1,1,Approximate OBST,Fredman [min-max tree],1975,3.0,99999.0,3.0,additive,yes,,0,0.0,1
+Optimal Binary Search Trees,Approximate OBST,268,Optimal Binary Search Trees,2,1,Approximate OBST,Larmore [Corollary 1.4],1987,4.6,99999.0,1.99,additive,yes,,0,0.0,1
+Optimal Binary Search Trees,Approximate OBST,269,Optimal Binary Search Trees,2,1,Approximate OBST,Larmore [Theorem 1.3],1987,4.6,99999.0,1.0,additive,yes,,0,0.0,1
+Optimal Binary Search Trees,Approximate OBST,271,Optimal Binary Search Trees,2,1,Approximate OBST,Levcopoulos; Lingas; Sack,1989,3.0,2.0,99999.0,multiplicative,yes,FPTAS,0,0.0,1
+Optimal Binary Search Trees,Approximate OBST,272,Optimal Binary Search Trees,1,1,Approximate OBST,de Prisco,1993,3.0,99999.0,3.0,additive,no,,0,0.0,0
+Root Computation,General Root Computation,354,Root Computation,1,1,General Root Computation,False position method,1690,3.0,99999.0,1.99,additive,yes,,0,0.0,1
+Root Computation,General Root Computation,353,Root Computation,1,1,General Root Computation,Bisection method,1820,3.0,99999.0,1.99,additive,yes,,0,0.0,0
+Root Computation,General Root Computation,357,Root Computation,1,1,General Root Computation,Secant method,1940,3.0,99999.0,1.99,additive,yes,,0,0.0,0
+Root Computation,General Root Computation,362,Root Computation,1,1,General Root Computation,ITP Method,1940,3.0,99999.0,1.99,additive,yes,,0,0.0,0
+Root Computation,General Root Computation,364,Root Computation,1,1,General Root Computation,Steffensen's method,1940,3.0,99999.0,1.99,additive,yes,,0,0.0,0
+Root Computation,General Root Computation,365,Root Computation,1,1,General Root Computation,Inverse quadratic interpolation,1940,3.0,99999.0,1.99,additive,yes,,0,0.0,0
+Root Computation,General Root Computation,359,Root Computation,1,1,General Root Computation,Muller's method,1956,3.0,99999.0,1.99,additive,yes,,0,0.0,0
+Root Computation,General Root Computation,360,Root Computation,1,1,General Root Computation,Illinois Algorithm,1971,3.0,99999.0,1.99,additive,yes,,0,0.0,0
+Root Computation,General Root Computation,361,Root Computation,1,1,General Root Computation,Anderson–Björck algorithm,1973,3.0,99999.0,1.99,additive,yes,,0,0.0,0
+Root Computation,General Root Computation,366,Root Computation,1,1,General Root Computation,Brent-Dekker Method,1973,3.0,99999.0,1.99,additive,yes,,0,0.0,0
+Root Computation,General Root Computation,358,Root Computation,1,1,General Root Computation,Ridders' method,1979,3.0,99999.0,1.99,additive,yes,,0,0.0,0
+Root Computation,General Root Computation,368,Root Computation,1,1,General Root Computation,,2014,3.0,99999.0,1.99,additive,yes,,0,0.0,0
+Root Computation,Root Computation with continuous derivatives (up to d),363,Root Computation,1,1,Root Computation with continuous derivatives (up to d),Householder's Method,1940,3.0,99999.0,1.99,additive,yes,,0,0.0,1
+Root Computation,Root Computation with continuous first derivative,355,Root Computation,1,1,Root Computation with continuous first derivative,Newton's method,1940,3.0,99999.0,1.99,additive,yes,,0,0.0,1
+Root Computation,Root Computation with continuous second derivative,356,Root Computation,1,1,Root Computation with continuous second derivative,Halley's method,1940,3.0,99999.0,1.99,additive,yes,,0,0.0,1
+SDD Systems Solvers,Inexact Laplacian Solver,250,SDD Systems Solvers,1,1,Inexact Laplacian Solver,Gremban; Miller; Zagha,1995,3.0,99999.0,1.99,additive,yes,,0,0.0,1
+SDD Systems Solvers,Inexact Laplacian Solver,251,SDD Systems Solvers,1,1,Inexact Laplacian Solver,Boman; Hendrickson,2003,4.25,99999.0,1.99,additive,yes,,0,0.0,0
+SDD Systems Solvers,Inexact Laplacian Solver,248,SDD Systems Solvers,2,1,Inexact Laplacian Solver,"Spielman, Teng ",2004,4.0,99999.0,1.99,additive,yes,,0,0.0,0
+SDD Systems Solvers,Inexact Laplacian Solver,252,SDD Systems Solvers,1,1,Inexact Laplacian Solver,Boman; Chen; Hendrickson; Toledo,2004,2.5,99999.0,1.99,additive,yes,,0,0.0,1
+SDD Systems Solvers,Inexact Laplacian Solver,258,SDD Systems Solvers,2,1,Inexact Laplacian Solver,Daitch; Spielman,2007,2.635,99999.0,1.99,additive,yes,,0,0.0,0
+SDD Systems Solvers,Inexact Laplacian Solver,253,SDD Systems Solvers,2,1,Inexact Laplacian Solver,Koutis; Miller and Peng,2010,4.0,99999.0,1.99,additive,yes,,0,0.0,0
+SDD Systems Solvers,Inexact Laplacian Solver,255,SDD Systems Solvers,1,1,Inexact Laplacian Solver,Blelloch; Koutis;  Miller; Tangwongsan,2010,2.51,99999.0,1.99,additive,yes,,0,0.0,0
+SDD Systems Solvers,Inexact Laplacian Solver,254,SDD Systems Solvers,2,1,Inexact Laplacian Solver,Koutis; Miller and Peng,2011,4.0,99999.0,1.99,additive,yes,,0,0.0,0
+SDD Systems Solvers,Inexact Laplacian Solver,256,SDD Systems Solvers,2,1,Inexact Laplacian Solver,Kelner; Orecchia; Sidford; Zhu,2013,4.011,99999.0,1.99,additive,yes,,0,0.0,0
+SDD Systems Solvers,Inexact Laplacian Solver,257,SDD Systems Solvers,2,1,Inexact Laplacian Solver,Lee; Peng; Spielman [Theorem 5.10],2015,3.0,99999.0,1.99,additive,yes,,0,0.0,0
+Sorting,Approximate Sorting,1,Sorting,1,1,Approximate Sorting,,2006,3.0,99999.0,6.99,additive,yes,,0,0.0,1
+Sorting,Approximate Sorting,4,Sorting,1,1,Approximate Sorting,,2015,3.0,99999.0,6.0,additive,no?,,0,0.0,1
+The Set-Covering Problem,Unweighted Set-Covering,834,The Set-Covering Problem,1,1,Unweighted Set-Covering,Johnson ( + bucket queue),1974,5.0,6.0,99999.0,multiplicative,no,,0,0.0,1
+The Set-Covering Problem,Unweighted Set-Covering,836,The Set-Covering Problem,1,1,Unweighted Set-Covering,,1981,5.0,8.9,99999.0,multiplicative,no,,0,0.0,0
+The Set-Covering Problem,Unweighted Set-Covering,837,The Set-Covering Problem,1,1,Unweighted Set-Covering,,1982,7.0,8.9,99999.0,multiplicative,no,,0,0.0,0
+The Set-Covering Problem,Unweighted Set-Covering,844,The Set-Covering Problem,1,1,Unweighted Set-Covering,,1993,7.0,6.0,99999.0,multiplicative,no,,0,0.0,0
+The Set-Covering Problem,Unweighted Set-Covering,843,The Set-Covering Problem,1,1,Unweighted Set-Covering,,1995,5.0,6.0,99999.0,multiplicative,no,,0,0.0,0
+The Set-Covering Problem,Unweighted Set-Covering,845,The Set-Covering Problem,1,1,Unweighted Set-Covering,,1995,7.0,6.0,99999.0,multiplicative,no,,0,0.0,0
+The Set-Covering Problem,Unweighted Set-Covering,846,The Set-Covering Problem,1,1,Unweighted Set-Covering,,1997,7.0,6.0,99999.0,multiplicative,no,,0,0.0,0
+The Set-Covering Problem,Unweighted Set-Covering,847,The Set-Covering Problem,1,1,Unweighted Set-Covering,,2006,7.0,6.0,99999.0,multiplicative,no,,0,0.0,0
+The Set-Covering Problem,Unweighted Set-Covering,855,The Set-Covering Problem,1,1,Unweighted Set-Covering,,2014,7.0,9.0,99999.0,multiplicative,no,,0,0.0,0
+The Set-Covering Problem,"Unweighted Set-Covering, Minimize Overlap",842,The Set-Covering Problem,1,1,"Unweighted Set-Covering, Minimize Overlap",Johnson,1974,7.0,6.0,99999.0,multiplicative,no,,0,0.0,1
+The Set-Covering Problem,Unweighted Set-Covering; Weighted Set-Covering,840,The Set-Covering Problem,1,1,Unweighted Set-Covering; Weighted Set-Covering,Integer linear program Vazirani,2001,7.0,6.0,99999.0,multiplicative,no,,0,0.0,1
+The Set-Covering Problem,Weighted Set-Covering,835,The Set-Covering Problem,1,1,Weighted Set-Covering,Chvatal greedy heuristic ( + bucket queue),1979,5.0,6.0,99999.0,multiplicative,no,,0,0.0,1
+The Subset-Sum Problem,Subset Sum (Approximate),625,The Subset-Sum Problem,2,1,Subset Sum (Approximate),Johnson,1974,7.0,2.0,99999.0,multiplicative,yes,PTAS,0,0.0,1
+The Subset-Sum Problem,Subset Sum (Approximate),626,The Subset-Sum Problem,2,1,Subset Sum (Approximate),"Ibarra, Kim",1975,3.0,2.0,99999.0,multiplicative,yes,FPTAS,0,0.0,1
+The Subset-Sum Problem,Subset Sum (Approximate),629,The Subset-Sum Problem,2,1,Subset Sum (Approximate),"Gens, Levner",1980,3.0,2.0,99999.0,multiplicative,yes,FPTAS,0,0.0,0
+The Subset-Sum Problem,Subset Sum (Approximate),630,The Subset-Sum Problem,2,1,Subset Sum (Approximate),"Martello, Toth [Section 3]",1984,5.0,2.333,99999.0,multiplicative,no,,0,0.0,0
+The Subset-Sum Problem,Subset Sum (Approximate),631,The Subset-Sum Problem,2,1,Subset Sum (Approximate),"Martello, Toth [Section 4]",1984,7.0,2.0,99999.0,multiplicative,yes,PTAS,0,0.0,0
+The Subset-Sum Problem,Subset Sum (Approximate),632,The Subset-Sum Problem,2,1,Subset Sum (Approximate),CLRS,1990,6.0,2.0,99999.0,multiplicative,yes,FPTAS?,0,0.0,0
+The Subset-Sum Problem,Subset Sum (Approximate),633,The Subset-Sum Problem,2,1,Subset Sum (Approximate),"Gens, Levner",1992,3.0,2.0,99999.0,multiplicative,yes,FPTAS,0,0.0,0
+The Subset-Sum Problem,Subset Sum (Approximate),634,The Subset-Sum Problem,2,1,Subset Sum (Approximate),"Kellerer, Mansini, Pferschy, Grazia Speranza",2003,3.0,2.0,99999.0,multiplicative,yes,FPTAS,0,0.0,0
+The Subset-Sum Problem,Subset Sum (Weakly Approximate),635,The Subset-Sum Problem,1,1,Subset Sum (Weakly Approximate),"Mucha, Wegrzycki, Wlodarczyk",2018,3.0,2.0,99999.0,multiplicative,yes,FPRAS,0,0.0,1
+The Subset-Sum Problem,Subset Sum (Weakly Approximate),636,The Subset-Sum Problem,1,1,Subset Sum (Weakly Approximate),"Wu, Chen",2022,3.0,2.0,99999.0,multiplicative,yes,FPTAS,0,0.0,0
+The Traveling-Salesman Problem,Approximate Geometric TSP,499,The Traveling-Salesman Problem,2,1,Approximate Geometric TSP,Approximation using Euclidean MST,1974,4.0,2.5,99999.0,multiplicative,no,,0,0.0,1
+The Traveling-Salesman Problem,Approximate Geometric TSP,500,The Traveling-Salesman Problem,1,1,Approximate Geometric TSP,Karp [Algorithm 1],1977,4.0,2.0,99999.0,multiplicative,yes,EPTAS,0,0.0,1
+The Traveling-Salesman Problem,Approximate Geometric TSP,501,The Traveling-Salesman Problem,1,1,Approximate Geometric TSP,Karp [Algorithm 2],1977,4.0,2.0,99999.0,multiplicative,yes,EPTAS,0,0.0,0
+The Traveling-Salesman Problem,Approximate Geometric TSP,502,The Traveling-Salesman Problem,1,1,Approximate Geometric TSP,Arora,1996,8.0,2.0,99999.0,multiplicative,yes,QPTAS,0,0.0,0
+The Traveling-Salesman Problem,Approximate Geometric TSP,503,The Traveling-Salesman Problem,1,1,Approximate Geometric TSP,Arora,1998,4.0,2.0,99999.0,multiplicative,yes,EPRAS?,0,0.0,0
+The Traveling-Salesman Problem,Approximate Geometric TSP,504,The Traveling-Salesman Problem,1,1,Approximate Geometric TSP,Arora [Derandomized],1998,7.0,2.0,99999.0,multiplicative,yes,EPTAS?,0,0.0,0
+The Traveling-Salesman Problem,Approximate Geometric TSP,506,The Traveling-Salesman Problem,2,1,Approximate Geometric TSP,"Rao, Smith [Monte Carlo Algorithm]",1998,4.0,2.0,99999.0,multiplicative,yes,EPTAS,0,0.0,0
+The Traveling-Salesman Problem,Approximate Geometric TSP,507,The Traveling-Salesman Problem,2,1,Approximate Geometric TSP,"Rao, Smith [Las Vegas Algorithm]",1998,4.0,2.0,99999.0,multiplicative,yes,EPTAS,0,0.0,0
+The Traveling-Salesman Problem,Approximate Geometric TSP,508,The Traveling-Salesman Problem,2,1,Approximate Geometric TSP,"Rao, Smith [Derandomized Algorithm]",1998,4.0,2.0,99999.0,multiplicative,yes,EPTAS,0,0.0,0
+The Traveling-Salesman Problem,Approximate Geometric TSP,505,The Traveling-Salesman Problem,1,1,Approximate Geometric TSP,Mitchell,1999,7.0,2.0,99999.0,multiplicative,yes,PTAS,0,0.0,0
+The Traveling-Salesman Problem,Approximate Geometric TSP,509,The Traveling-Salesman Problem,1,1,Approximate Geometric TSP,"Bartal, Gottlieb",2013,3.0,2.0,99999.0,multiplicative,yes,EPTAS,0,0.0,1
+The Traveling-Salesman Problem,Approximate Geometric TSP,510,The Traveling-Salesman Problem,1,1,Approximate Geometric TSP,"Kisfaludi-Bak, Nederlof, Wegrzycki",2021,4.0,2.0,99999.0,multiplicative,yes,EPTAS,0,0.0,0
+The Traveling-Salesman Problem,Approximate Metric TSP,488,The Traveling-Salesman Problem,1,1,Approximate Metric TSP,Clarke-Wright savings heuristic,1964,5.01,6.0,99999.0,multiplicative,no,,0,0.0,1
+The Traveling-Salesman Problem,Approximate Metric TSP,491,The Traveling-Salesman Problem,2,1,Approximate Metric TSP,Nicholson,1967,5.01,2.99,99999.0,multiplicative,no,,0,0.0,1
+The Traveling-Salesman Problem,Approximate Metric TSP,490,The Traveling-Salesman Problem,2,1,Approximate Metric TSP,"Bellmore, Nemhauser",1968,5.0,6.0,99999.0,multiplicative,no,,0,0.0,1
+The Traveling-Salesman Problem,Approximate Metric TSP,492,The Traveling-Salesman Problem,2,1,Approximate Metric TSP,Rosenkrantz; D. J.; Stearns; R. E.; Lewis; P. M.,1974,5.0,2.99,99999.0,multiplicative,no,,0,0.0,0
+The Traveling-Salesman Problem,Approximate Metric TSP,496,The Traveling-Salesman Problem,2,1,Approximate Metric TSP,Christofides algorithm,1976,6.0,2.5,99999.0,multiplicative,no,,0,0.0,1
+The Traveling-Salesman Problem,Approximate Metric TSP,487,The Traveling-Salesman Problem,1,1,Approximate Metric TSP,Greedy,1984,5.01,6.0,99999.0,multiplicative,no,,0,0.0,0
+The Traveling-Salesman Problem,Approximate Metric TSP,497,The Traveling-Salesman Problem,2,1,Approximate Metric TSP,Christofides algorithm [improved by Gabow and Tarjan],1991,5.5,2.5,99999.0,multiplicative,no,,0,0.0,0
+The Traveling-Salesman Problem,Approximate Metric TSP,498,The Traveling-Salesman Problem,1,1,Approximate Metric TSP,"Karlin, Klein, Gharan",2021,7.0,2.499,99999.0,multiplicative,no,,0,0.0,1
+The Vertex Cover Problem,"The Vertex Cover Problem, General (Approximate)",749,The Vertex Cover Problem,1,1,"The Vertex Cover Problem, General (Approximate)",Hochbaum,1981,6.01,2.99,99999.0,multiplicative,no,,0,0.0,1
+The Vertex Cover Problem,"The Vertex Cover Problem, General (Approximate)",757,The Vertex Cover Problem,1,1,"The Vertex Cover Problem, General (Approximate)",Halperin,2002,7.0,2.99,99999.0,multiplicative,no,,0,0.0,0
+The Vertex Cover Problem,"The Vertex Cover Problem, General (Approximate)",758,The Vertex Cover Problem,1,1,"The Vertex Cover Problem, General (Approximate)",Karakostas,2004,7.0,2.99,99999.0,multiplicative,no,,0,0.0,0
+The Vertex Cover Problem,"The Vertex Cover Problem, Planar Graph (Approximate)",775,The Vertex Cover Problem,1,1,"The Vertex Cover Problem, Planar Graph (Approximate)","Bar-Yehuda, Even",1981,3.0,3.0,99999.0,multiplicative,no,,0,0.0,1
+The Vertex Cover Problem,"The Vertex Cover Problem, Planar Graph (Approximate)",776,The Vertex Cover Problem,1,1,"The Vertex Cover Problem, Planar Graph (Approximate)",Hochbaum,1981,5.01,2.6,99999.0,multiplicative,no,,0,0.0,1
+The Vertex Cover Problem,"The Vertex Cover Problem, Planar Graph (Approximate)",777,The Vertex Cover Problem,1,1,"The Vertex Cover Problem, Planar Graph (Approximate)",Hochbaum,1981,7.0,2.5,99999.0,multiplicative,no,,0,0.0,1
+The Vertex Cover Problem,"The Vertex Cover Problem, Planar Graph (Approximate)",778,The Vertex Cover Problem,1,1,"The Vertex Cover Problem, Planar Graph (Approximate)","Bar-Yehuda, Even",1982,3.0,2.667,99999.0,multiplicative,no,,0,0.0,0
+The Vertex Cover Problem,"The Vertex Cover Problem, Planar Graph (Approximate)",779,The Vertex Cover Problem,1,1,"The Vertex Cover Problem, Planar Graph (Approximate)","Bar-Yehuda, Even",1982,4.0,1.0,99999.0,multiplicative,no,,0,0.0,1
+The Vertex Cover Problem,"The Vertex Cover Problem, Unweighted (Approximate)",748,The Vertex Cover Problem,1,1,"The Vertex Cover Problem, Unweighted (Approximate)",Simple 1/2-approximation (Gavril),1974,5.0,3.0,99999.0,multiplicative,no,,0,0.0,1
+The Vertex Cover Problem,"The Vertex Cover Problem, Unweighted (Approximate)",750,The Vertex Cover Problem,1,1,"The Vertex Cover Problem, Unweighted (Approximate)","Bar-Yehuda, Even [COVER2]",1985,5.5,2.99,99999.0,multiplicative,no,,0,0.0,1
+The Vertex Cover Problem,"The Vertex Cover Problem, Unweighted (Approximate)",751,The Vertex Cover Problem,1,1,"The Vertex Cover Problem, Unweighted (Approximate)","Bar-Yehuda, Even [COVER3]",1985,6.0,2.99,99999.0,multiplicative,no,,0,0.0,0
+The Vertex Cover Problem,"The Vertex Cover Problem, Unweighted (Approximate)",754,The Vertex Cover Problem,1,1,"The Vertex Cover Problem, Unweighted (Approximate)","Monien, Speckenmeyer",1985,6.0,2.99,99999.0,multiplicative,no,,0,0.0,0
+The Vertex Cover Problem,"The Vertex Cover Problem, Unweighted, Dense (Approximate)",756,The Vertex Cover Problem,1,1,"The Vertex Cover Problem, Unweighted, Dense (Approximate)","Karpinski, Zelikovsky",1998,6.0,2.99,99999.0,multiplicative,no,,0,0.0,1
+The Vertex Cover Problem,"The Vertex Cover Problem, Weighted (Approximate)",752,The Vertex Cover Problem,1,1,"The Vertex Cover Problem, Weighted (Approximate)","Bar-Yehuda, Even [COVER2]",1985,6.01,2.99,99999.0,multiplicative,no,,0,0.0,1
+The Vertex Cover Problem,"The Vertex Cover Problem, Weighted (Approximate)",753,The Vertex Cover Problem,1,1,"The Vertex Cover Problem, Weighted (Approximate)","Bar-Yehuda, Even [COVER3]",1985,6.01,2.99,99999.0,multiplicative,no,,0,0.0,0
+The Vertex Cover Problem,"The Vertex Cover Size Problem, General (Approximate)",769,The Vertex Cover Problem,1,1,"The Vertex Cover Size Problem, General (Approximate)",,2013,8.0,2.5,99999.0,multiplicative,yes,,0,0.0,1
+The Vertex Cover Problem,"The Vertex Cover Size Problem, General (Approximate)",771,The Vertex Cover Problem,1,1,"The Vertex Cover Size Problem, General (Approximate)",Behnezhad [Theorem 1.2],2021,4.0,3.01,99999.0,multiplicative,yes,,0,0.0,1
+The Vertex Cover Problem,"The Vertex Cover Size Problem, General (Approximate)",773,The Vertex Cover Problem,1,1,"The Vertex Cover Size Problem, General (Approximate)",Behnezhad [Theorem 1.4],2021,4.0,3.0,5.99,multiplicative-additive,yes,,0,0.0,1
+The Vertex Cover Problem,"The Vertex Cover Size Problem, Sparse (Approximate)",759,The Vertex Cover Problem,1,1,"The Vertex Cover Size Problem, Sparse (Approximate)","Parnas, Ron [Algorithm 1+3]",2005,8.0,6.0,5.99,multiplicative-additive,yes,,0,0.0,1
+The Vertex Cover Problem,"The Vertex Cover Size Problem, Sparse (Approximate)",760,The Vertex Cover Problem,1,1,"The Vertex Cover Size Problem, Sparse (Approximate)","Parnas, Ron [Algorithms 1,2,3]",2005,8.0,6.0,5.99,multiplicative-additive,yes,,0,0.0,0
+The Vertex Cover Problem,"The Vertex Cover Size Problem, Sparse (Approximate)",761,The Vertex Cover Problem,1,1,"The Vertex Cover Size Problem, Sparse (Approximate)","Parnas, Ron [Section 4.1]",2005,8.0,3.0,5.99,multiplicative-additive,yes,,0,0.0,1
+The Vertex Cover Problem,"The Vertex Cover Size Problem, Sparse (Approximate)",762,The Vertex Cover Problem,1,1,"The Vertex Cover Size Problem, Sparse (Approximate)","Parnas, Ron [Section 4.1]",2005,8.0,3.0,5.99,multiplicative-additive,yes,,0,0.0,0
+The Vertex Cover Problem,"The Vertex Cover Size Problem, Sparse (Approximate)",763,The Vertex Cover Problem,1,1,"The Vertex Cover Size Problem, Sparse (Approximate)","Marko, Ron",2006,8.0,3.0,5.99,multiplicative-additive,yes,,0,0.0,0
+The Vertex Cover Problem,"The Vertex Cover Size Problem, Sparse (Approximate)",764,The Vertex Cover Problem,1,1,"The Vertex Cover Size Problem, Sparse (Approximate)","Nguyen, Onak",2008,8.0,3.0,5.99,multiplicative-additive,yes,,0,0.0,0
+The Vertex Cover Problem,"The Vertex Cover Size Problem, Sparse (Approximate)",765,The Vertex Cover Problem,1,1,"The Vertex Cover Size Problem, Sparse (Approximate)","Yoshida, Yamamoto, Ito",2009,7.0,3.0,5.99,multiplicative-additive,yes,,0,0.0,1
+The Vertex Cover Problem,"The Vertex Cover Size Problem, Sparse (Approximate)",766,The Vertex Cover Problem,1,1,"The Vertex Cover Size Problem, Sparse (Approximate)","Yoshida, Yamamoto, Ito (+ Parnas-Ron/some other reduction?)",2009,7.0,3.0,5.99,multiplicative-additive,yes,,0,0.0,0
+The Vertex Cover Problem,"The Vertex Cover Size Problem, Sparse (Approximate)",770,The Vertex Cover Problem,1,1,"The Vertex Cover Size Problem, Sparse (Approximate)","Biswas, Raman, Saurabh",2020,8.0,3.0,99999.0,multiplicative,no,,0,0.0,0
+The Vertex Cover Problem,"The Vertex Cover Size Problem, Sparse (Approximate)",772,The Vertex Cover Problem,1,1,"The Vertex Cover Size Problem, Sparse (Approximate)",Behnezhad [Theorem 1.3],2021,4.0,3.0,5.99,multiplicative-additive,yes,,0,0.0,1
+Wiener Index,Minimum Wiener Connector problem,918,Wiener Index,1,1,Minimum Wiener Connector problem,,2008,5.5,2.0,99999.0,multiplicative,yes,FPTAS,0,0.0,1
+Wiener Index,Minimum Wiener Connector problem,917,Wiener Index,1,1,Minimum Wiener Connector problem,Ruchansky,2015,5.01,4.0,99999.0,multiplicative,no,,0,0.0,1
+Wiener Index,Minimum Wiener Connector problem,919,Wiener Index,1,1,Minimum Wiener Connector problem,,2023,7.0,2.0,99999.0,multiplicative,yes,FPTAS,0,0.0,0

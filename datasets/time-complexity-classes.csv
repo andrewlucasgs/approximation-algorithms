@@ -1,0 +1,9 @@
+Time Complexity Class,Exact,Constant-term/factor,Any reasonable error,n_families
+1,0,0,0,116
+2,0,0,0,116
+3,43,52,52,116
+4,7,7,7,116
+5,23,25,26,116
+6,17,14,14,116
+7,4,2,2,116
+8,22,16,15,116

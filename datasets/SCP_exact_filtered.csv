@@ -1,0 +1,3 @@
+,Family Name,Algorithm Name,Year,n = 10^9,Relative Improvement
+0,The Set-Covering Problem,Brute force,1972.0,2^2000000000,1
+1,The Set-Covering Problem,Brute force,2024.0,2^2000000000,1

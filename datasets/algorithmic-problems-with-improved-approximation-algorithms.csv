@@ -1,0 +1,10 @@
+Year,All-Pairs Shortest Paths (APSP),Cardinality Estimation,Closest Pair Problem,Convex Optimization (Non-linear),Determinant of Matrices with Integer Entries,Discrete Fourier Transform,Eigenvalues (Iterative Methods),LU Decomposition,Linear System,Link Analysis,Matrix Chain Multiplication,Matrix Product,Maximum Cardinality Matching,Maximum Cut,Maximum Flow,Maximum-Weight Matching,Minimum Spanning Tree (MST),Nash Equilibria,Nearest Neighbor Search,Optimal Binary Search Trees,Root Computation,SDD Systems Solvers,Sorting,The Set-Covering Problem,The Subset-Sum Problem,The Traveling-Salesman Problem,The Vertex Cover Problem,Wiener Index,Total,Cumulative Unique Families,Total Percentage
+1940.0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,50,6.0
+1950.0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,64,3.125
+1960.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,80,2.5
+1970.0,0,0,0,1,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,1,0,0,0,1,1,1,1,0,11,100,11.0
+1980.0,0,1,0,1,0,0,1,0,1,0,1,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,1,0,11,108,10.185185185185185
+1990.0,1,0,0,1,1,1,1,0,0,0,0,0,1,1,1,1,0,0,1,0,0,1,0,0,0,0,1,0,12,116,10.344827586206897
+2000.0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,0,1,1,1,0,0,1,1,11,118,9.322033898305085
+2010.0,1,1,1,0,1,0,0,1,0,1,0,0,1,0,1,1,0,0,1,0,0,0,1,0,1,1,1,1,15,119,12.605042016806722
+2020.0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,7,119,14.705882352941176

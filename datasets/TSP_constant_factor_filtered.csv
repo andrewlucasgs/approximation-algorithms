@@ -1,4 +1,4 @@
-,Family Name,Algorithm Name,Year,n = 10^9,Relative Improvement
+,Family Name,Algorithm Name,Year,n = 10^6,Relative Improvement
 0,The Traveling-Salesman Problem,Dantzig-Fulkerson-Johnson (DFJ) formulation,1954.0,2^1000000000,1.0
 1,The Traveling-Salesman Problem,Nicholson,1967.0,2.9897352853986263e+19,301029976.1883484
 2,The Traveling-Salesman Problem,Approximation using Euclidean MST,1974.0,29897352853.986263,301029985.1883484

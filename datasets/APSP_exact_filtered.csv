@@ -1,4 +1,4 @@
-,Family Name,Algorithm Name,Year,n = 10^9,Relative Improvement
+,Family Name,Algorithm Name,Year,n = 10^6,Relative Improvement
 0,All-Pairs Shortest Paths (APSP),Shimbel Algorithm,1953.0,1000000000000000000000000000000000000,1.0
 1,All-Pairs Shortest Paths (APSP),Floyd–Warshall algorithm,1962.0,1000000000000000000000000000,8.999999999999998
 2,All-Pairs Shortest Paths (APSP),Seidel's algorithm,1995.0,6.8019390664990486e+22,13.167367262906348

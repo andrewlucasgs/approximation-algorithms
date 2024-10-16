@@ -1,4 +1,4 @@
-,Family Name,Algorithm Name,Year,n = 10^9,Relative Improvement
+,Family Name,Algorithm Name,Year,n = 10^6,Relative Improvement
 0,The Traveling-Salesman Problem,Dantzig-Fulkerson-Johnson (DFJ) formulation,1954.0,2^1000000000,1.0
 1,The Traveling-Salesman Problem,Clarke-Wright savings heuristic,1964.0,2.9897352853986263e+19,301029976.1883484
 2,The Traveling-Salesman Problem,"Bellmore, Nemhauser",1968.0,1000000000000000000,301029977.66398114

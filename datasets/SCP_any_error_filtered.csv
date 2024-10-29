@@ -1,4 +1,4 @@
 ,Family Name,Algorithm Name,Year,n = 10^6,Relative Improvement
-0,The Set-Covering Problem,Brute force,1972.0,2^2000000000,1.0
-1,The Set-Covering Problem,Johnson ( + bucket queue),1974.0,1000000000000000000,602059973.3279623
-2,The Set-Covering Problem,Johnson ( + bucket queue),2024.0,1000000000000000000,602059973.3279623
+0,The Set-Covering Problem,Brute force,1972.0,2^2000000,1
+1,The Set-Covering Problem,Johnson ( + bucket queue),1974.0,1000000000000,602047.9913279624
+2,The Set-Covering Problem,Johnson ( + bucket queue),2024.0,1000000000000,602047.9913279624

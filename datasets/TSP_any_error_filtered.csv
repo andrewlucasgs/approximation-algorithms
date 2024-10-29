@@ -1,7 +1,7 @@
 ,Family Name,Algorithm Name,Year,n = 10^6,Relative Improvement
-0,The Traveling-Salesman Problem,Dantzig-Fulkerson-Johnson (DFJ) formulation,1954.0,2^1000000000,1.0
-1,The Traveling-Salesman Problem,Clarke-Wright savings heuristic,1964.0,2.9897352853986263e+19,301029976.1883484
-2,The Traveling-Salesman Problem,"Bellmore, Nemhauser",1968.0,1000000000000000000,301029977.66398114
-3,The Traveling-Salesman Problem,Approximation using Euclidean MST,1974.0,29897352853.986263,301029985.1883484
-4,The Traveling-Salesman Problem,"Bartal, Gottlieb",2013.0,1000000000,301029986.66398114
-5,The Traveling-Salesman Problem,"Bartal, Gottlieb",2024.0,1000000000,301029986.66398114
+0,The Traveling-Salesman Problem,Dantzig-Fulkerson-Johnson (DFJ) formulation,1954.0,2^1000000,1
+1,The Traveling-Salesman Problem,Clarke-Wright savings heuristic,1964.0,19931568569324.176,301016.6961225031
+2,The Traveling-Salesman Problem,"Bellmore, Nemhauser",1968.0,1000000000000,301017.9956639811
+3,The Traveling-Salesman Problem,Approximation using Euclidean MST,1974.0,19931568.569324173,301022.69612250314
+4,The Traveling-Salesman Problem,"Bartal, Gottlieb",2013.0,1000000,301023.9956639812
+5,The Traveling-Salesman Problem,"Bartal, Gottlieb",2024.0,1000000,301023.9956639812
